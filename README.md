@@ -19,3 +19,5 @@ A simple browser-based game built with Vue.js where you battle a monster by atta
 - CSS3
 - JavaScript (ES6+)
 
+## 💻 Screenshot
+![screencapture-127-0-0-1-5500-index-html-2025-04-03-20_00_14](https://github.com/user-attachments/assets/a4e49f18-a47a-4339-903f-2a5c4dc1e0c0)
